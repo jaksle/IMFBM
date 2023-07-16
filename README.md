@@ -1,8 +1,6 @@
 # IMFBM
 
-This package is a supplement to the article J. Ślęzak, R. Metzler "Minimal model of diffusion with time changing Hurst exponent".
-
-It contains simulation, estimation and visualisation methods for incremental fractional Brownian motion (IMFBM) process.
+This package is a supplement to the article J. Ślęzak, R. Metzler "Minimal model of diffusion with time changing Hurst exponent". It contains simulation, estimation and visualisation methods for incremental fractional Brownian motion (IMFBM) process. The code was made in Julia language v1.9. The files can be opened in any text editor.
 
 
 **License:**
