@@ -5,7 +5,7 @@ This package is a supplement to the article J. Ślęzak, R. Metzler "Minimal mod
 It contains simulation, estimation and visualisation methods for incremental fractional Brownian motion (IMFBM) process.
 
 
-License:
+**License:**
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
