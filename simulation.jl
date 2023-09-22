@@ -54,6 +54,7 @@ Directly add value X(0) = 0 instead.
 """
 function simulateIMFBM(H₁::Real, H₂::Real, D₁::Real, D₂::Real, τ::Real, ts::AbstractVector{<:Real}, n::Int) 
 
+    m = length(ts)
     C = covIMFBM(H₁, H₂, D₁, D₂, τ)
 
     S = [C(s,t) for s in ts, t in ts]
